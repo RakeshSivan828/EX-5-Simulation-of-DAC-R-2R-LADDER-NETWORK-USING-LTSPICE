@@ -1,7 +1,7 @@
 # EX-5-Simulation-of-DAC-R-2R-LADDER-NETWORK-USING-LTSPICE
 ## 5.SIMULATION OF DAC CONVERTER ( R-2R NETWORK)  USING LT- SPICE
             
-**DATE:**  
+**DATE: 21-11-2025**  
 
 
 ## AIM  : To simulate the performance of R-2R  circuits using LT- SPICE                
@@ -30,6 +30,7 @@
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="867" height="425" alt="image" src="https://github.com/user-attachments/assets/5348fcc8-429b-4a16-b51f-96a0e563e8fb" />
 
 ---
 ##RESULT:
